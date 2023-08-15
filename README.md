@@ -10,6 +10,7 @@ pip install -r requirements.txt
 
 Then, you can run the application with the following command:
 
+    
 python app.py
 
 The application should be accessible at http://localhost:7878 in your web browser.
